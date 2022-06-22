@@ -50,12 +50,12 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
   <img src ="./images/figma.svg" alt="Figma logo" width="3%" title='Figma'/>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git logo" width="13%" title='Git'/>
-  <img src ="./images/ethereum.svg" alt="ETHEREUM logo" width="13%" title='ETHEREUM'/>
+  <img src ="./images/ethereum.svg" alt="ETHEREUM logo" width="3%" title='ETHEREUM'/>
   <img src ="./images/npm.svg" alt="NPM logo" width="7%" title='NPM'/>
   <img src ="./images/metamask.svg" alt="METAMASK logo" width="6%" title='METAMASK'/>
   <img src ="./images/xd.svg" alt="ADOBE XD logo" width="6%" title='Adobe XD'/>
-  <img src ="./images/aws.svg" alt="AWS logo" width="12%" title='AWS'/> 
-  <img src ="./images/solidity.svg" alt="SOLIDITY logo" width="7%" title='SOLIDITY'/> 
+  <img src ="./images/aws.svg" alt="AWS logo" width="9%" title='AWS'/> 
+  <img src ="./images/solidity.svg" alt="SOLIDITY logo" width="3%" title='SOLIDITY'/> 
 </div>
   
 
