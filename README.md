@@ -16,6 +16,8 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 
 ## Technologies I use often:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDallas&layout)](https://github.com/DanielDallas/github-readme-stats)
+
 ### Frontend Technologies
 
 <div>
@@ -29,10 +31,6 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
   <img class="img" src ="./images/redux.svg" alt="redux logo" width="5%" title='Redux'/>
   <img class="img" src ="./images/gatsby.svg" alt="Gatsby logo" width="5%" title='Gatsby'/>
 <div> 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDallas&layout)](https://github.com/DanielDallas/github-readme-stats)
-
 
 ### Backend Technologies
 
@@ -69,3 +67,9 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 <small> _I am a lifelong learner and I love to teach, collaborate and inspire people._ </small>
 
 <small> _[I love to travel, play football, table tennis and see movies.]_ </small>
+
+<style>
+    .img{
+    padding: auto 4px;
+}
+</style>
