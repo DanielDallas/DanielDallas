@@ -20,12 +20,12 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 ### Frontend Technologies
 
 <div>
-  <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
-  <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
+  <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
+  <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript'/>
   <img src ="./images/react.svg" alt="react logo" width="5%" title='React'/>
   <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="5%" title='Bootstrap'/>
-  <img src ="./images/sass.svg" alt="Sass logo" width="5%" title='Sass'/>
+  <img src ="./images/sass.svg" alt="Sass logo" width="6%" title='Sass'/>
   <img src ="./images/es6.svg" alt="ES6 logo" width="5%" title='ES6'/>
   <img src ="./images/redux.svg" alt="redux logo" width="5%" title='Redux'/>
   <img src ="./images/gatsby.svg" alt="Gatsby logo" width="5%" title='Gatsby'/>
@@ -50,10 +50,10 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
   <img src ="./images/figma.svg" alt="Figma logo" width="3%" title='Figma'/>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="4%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git logo" width="11%" title='Git'/>
-  <img src ="./images/ethereum.svg" alt="ETHEREUM logo" width="4%" title='ETHEREUM'/>
-  <img src ="./images/npm.svg" alt="NPM logo" width="9%" title='NPM'/>
+  <img src ="./images/ethereum.svg" alt="ETHEREUM logo" width="3%" title='ETHEREUM'/>
+  <img src ="./images/npm.svg" alt="NPM logo" width="7" title='NPM'/>
   <img src ="./images/metamask.svg" alt="METAMASK logo" width="6%" title='METAMASK'/>
-  <img src ="./images/solidity.svg" alt="SOLIDITY logo" width="4%" title='SOLIDITY'/> 
+  <img src ="./images/solidity.svg" alt="SOLIDITY logo" width="3%" title='SOLIDITY'/> 
   <img src ="./images/xd.svg" alt="ADOBE XD logo" width="5%" title='Adobe XD'/>
   <img src ="./images/aws.svg" alt="AWS logo" width="7%" title='AWS'/> 
 </div>
