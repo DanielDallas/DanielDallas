@@ -37,7 +37,6 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
   <img src ="./images/mongodb.svg" alt="Momgodb logo" width="14%" title='MongoDB'/>
   <img src ="./images/nodejs.svg" alt="Node logo" width="10%" title='Nodejs'/>
   <img src ="./images/express.svg" alt="express logo" width="11%" title='Express'/>
-  <!-- <img src ="./images/php.svg" alt="php logo" width="13%" title='PHP'/> -->
   <img src ="./images/sqlite.svg" alt="sqlite logo" width="10%" title='sqlite'/>
   <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
   <img src ="./images/mysql.svg" alt="mysql logo" width="10%" title='MYSQL'/>
@@ -47,15 +46,12 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 ### Tools I use often
 
 <div>
-  <img src ="./images/figma.svg" alt="Figma logo" width="3%" title='Figma'/>
-  <img src ="./images/xd.svg" alt="ADOBE XD logo" width="5%" title='Adobe XD'/>
-  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="4%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git logo" width="11%" title='Git'/>
-  <!-- <img src ="./images/ethereum.svg" alt="ETHEREUM logo" width="3%" title='ETHEREUM'/>
-  <img src ="./images/metamask.svg" alt="METAMASK logo" width="6%" title='METAMASK'/>
-  <img src ="./images/aws.svg" alt="AWS logo" width="7%" title='AWS'/> 
-  <img src ="./images/solidity.svg" alt="SOLIDITY logo" width="3%" title='SOLIDITY'/>-->
+  <img src ="./images/figma.svg" alt="Figma logo" width="3%" title='Figma'/>
+  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="4%" title='Visual Studio Code'/>
+  <img src ="./images/xd.svg" alt="ADOBE XD logo" width="5%" title='Adobe XD'/>
   <img src ="./images/npm.svg" alt="NPM logo" width="7%" title='NPM'/>
+  <img src ="./images/aws.svg" alt="AWS logo" width="7%" title='AWS'/> 
 </div>
   
 
