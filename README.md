@@ -55,8 +55,8 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 </div>
   
 
- ### Support me
- By subscribing to <a href="https://www.youtube.com/channel/UCLgTyyNvyZCWdAlSuxlb8ow" target="_blank">my YouTube Channel <img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
+ ### Let's collaborate - I'm in!
+ <!-- By subscribing to <a href="https://www.youtube.com/channel/UCLgTyyNvyZCWdAlSuxlb8ow" target="_blank">my YouTube Channel <img src='./images/youtube.svg' alt='YouTube' width="3%"></a> -->
 
 ---
 <small> I firmly believe that in the midst of all our accomplishments, we should always find ways to give back to the society/community. </small>
