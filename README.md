@@ -51,7 +51,7 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="4%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git logo" width="11%" title='Git'/>
   <img src ="./images/ethereum.svg" alt="ETHEREUM logo" width="3%" title='ETHEREUM'/>
-  <img src ="./images/npm.svg" alt="NPM logo" width="7" title='NPM'/>
+  <img src ="./images/npm.svg" alt="NPM logo" width="7%" title='NPM'/>
   <img src ="./images/metamask.svg" alt="METAMASK logo" width="6%" title='METAMASK'/>
   <img src ="./images/solidity.svg" alt="SOLIDITY logo" width="3%" title='SOLIDITY'/> 
   <img src ="./images/xd.svg" alt="ADOBE XD logo" width="5%" title='Adobe XD'/>
