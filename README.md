@@ -46,10 +46,10 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 ### Tools I use often
 
 <div>
+  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="4%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git logo" width="11%" title='Git'/>
   <img src ="./images/figma.svg" alt="Figma logo" width="3%" title='Figma'/>
   <img src ="./images/aws.svg" alt="AWS logo" width="7%" title='AWS'/> 
-  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="4%" title='Visual Studio Code'/>
   <img src ="./images/xd.svg" alt="ADOBE XD logo" width="5%" title='Adobe XD'/>
   <img src ="./images/npm.svg" alt="NPM logo" width="7%" title='NPM'/>
 </div>
