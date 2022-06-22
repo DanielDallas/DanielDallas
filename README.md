@@ -21,39 +21,41 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 
 <div>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="5%" title='HTML5'/>
+  <img src ="./images/javascript.svg" alt="JavaScript logo" width="7%" title='JavaScript'/>
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="5%" title='CSS3'/>
-  <img src ="./images/react.svg" alt="react logo" width="6%" title='React'/>
-  <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="5%" title='Bootstrap'/>
-  <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript'/>
-  <img src ="./images/sass.svg" alt="Sass logo" width="5%" title='Sass'/>
-  <img src ="./images/es6.svg" alt="ES6 logo" width="5%" title='ES6'/>
-  <img src ="./images/redux.svg" alt="redux logo" width="5%" title='Redux'/>
-  <img src ="./images/gatsby.svg" alt="Gatsby logo" width="5%" title='Gatsby'/>
+  <img src ="./images/react.svg" alt="react logo" width="7%" title='React'/>
+  <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="7%" title='Bootstrap'/>
+  <img src ="./images/sass.svg" alt="Sass logo" width="7%" title='Sass'/>
+  <img src ="./images/es6.svg" alt="ES6 logo" width="7%" title='ES6'/>
+  <img src ="./images/redux.svg" alt="redux logo" width="7%" title='Redux'/>
+  <img src ="./images/gatsby.svg" alt="Gatsby logo" width="7%" title='Gatsby'/>
 <div> 
 
 ### Backend Technologies
 
 <div>
   <img src ="./images/nodejs.svg" alt="Node logo" width="10%" title='Nodejs'/>
-  <img src ="./images/express.svg" alt="express logo" width="10%" title='Express'/>
-  <img src ="./images/mongodb.svg" alt="Momgodb logo" width="12%" title='MongoDB'/>
-  <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
+  <img src ="./images/express.svg" alt="express logo" width="13%" title='Express'/>
+  <img src ="./images/php.svg" alt="php logo" width="13%" title='PHP'/>
+  <img src ="./images/mongodb.svg" alt="Momgodb logo" width="14%" title='MongoDB'/>
   <img src ="./images/sqlite.svg" alt="sqlite logo" width="10%" title='sqlite'/>
+  <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
   <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
-  <img src ="./images/flask.svg" alt="Flask logo" width="4%" title='Flask'/>
-  <img src ="./images/django.svg" alt="Django logo" width="4%" title='Django'/>
 </div>
 
 
 ### Tools I use often
 
 <div>
-  <img src ="./images/figma.svg" alt="Figma logo" width="3%" title='Figma'/>
+  <img src ="./images/figma.svg" alt="Figma logo" width="4%" title='Figma'/>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git logo" width="13%" title='Git'/>
-  <img src ="./images/eslint.svg" alt="ESLint logo" width="5%" title='ESLint'/>
-  <img src ="./images/webpack.svg" alt="Webpack logo" width="5%" title='Webpack'/>
-  <img src ="./images/nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/> 
+  <img src ="./images/ethereum.svg" alt="ETHEREUM logo" width="13%" title='ETHEREUM'/>
+  <img src ="./images/npm.svg" alt="NPM logo" width="5%" title='NPM'/>
+  <img src ="./images/metamask.svg" alt="METAMASK logo" width="5%" title='METAMASK'/>
+  <img src ="./images/xd.svg" alt="ADOBE XD logo" width="5%" title='Adobe XD'/>
+  <img src ="./images/aws.svg" alt="AWS logo" width="5%" title='AWS'/> 
+  <img src ="./images/solidity.svg" alt="SOLIDITY logo" width="5%" title='SOLIDITY'/> 
 </div>
   
 
