@@ -15,7 +15,7 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 
 ## Technologies I use often:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDallas&layout)](https://github.com/DanielDallas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDallas&layout)](https://TheDanielDallas.com)
 
 ### Frontend Technologies
 
