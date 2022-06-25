@@ -13,7 +13,7 @@ I am a **Software Developer** and **User Experience Designer** on the mission to
 
 I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieldallas&label=Profile%20views&color=0e75b6&style=flat" alt="Danieldallas" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieldallas&label=Profile%20views&color=0e75b6&style=flat" alt="Danieldallas" /> </p> -->
 <p align="left"> <a href="https://twitter.com/TheDanielDallas" target="blank"><img src="https://img.shields.io/twitter/follow/TheDanielDallas?logo=twitter&style=for-the-badge" alt="TheDanielDallas" /></a> </p>
 
 
