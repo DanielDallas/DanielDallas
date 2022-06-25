@@ -63,7 +63,7 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
  <!-- By subscribing to <a href="https://www.youtube.com/channel/UCLgTyyNvyZCWdAlSuxlb8ow" target="_blank">my YouTube Channel <img src='./images/youtube.svg' alt='YouTube' width="3%"></a> -->
 
 ---
-<small> I firmly believe that in the midst of all our accomplishments, we should always find ways to give back to the society/community. </small>
+> I firmly believe that in the midst of all our accomplishments, we should always find ways to give back to the society/community.
 
 <small> I am a lifelong learner and I love to teach, collaborate and inspire people. </small>
 
