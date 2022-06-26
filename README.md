@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/danieldallasokoye/">Linkedin</a>
 </p>
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./#)
 
 
 ---
