@@ -43,7 +43,7 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
   <img src ="./images/sqlite.svg" alt="sqlite logo" width="10%" title='sqlite'/>
   <img src ="./images/mongodb.svg" alt="Momgodb logo" width="14%" title='MongoDB'/>
   <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
-  <img src ="./images/mysql.svg" alt="mysql logo" width="10%" title='MYSQL'/>
+  <img src ="./images/mysql.svg" alt="mysql logo" width="4%" title='MYSQL'/>
 </div>
 
 
