@@ -5,8 +5,10 @@
     <a href="https://twitter.com/thedanieldallas">Twitter</a> • 
     <a href="https://instagram.com/thedanieldallas">Instagarm</a> • 
     <a href="https://www.linkedin.com/in/danieldallasokoye/">Linkedin</a>
-  
 </p>
+
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
+
 
 ---
 I am a **Software Developer** and **User Experience Designer** on the mission to create interactive experiences for amazing people using modern **WEB, MOBILE** and **BLOCKCHAIN technologies**.
