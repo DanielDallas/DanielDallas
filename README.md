@@ -56,7 +56,6 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
   <img src ="./images/aws.svg" alt="AWS logo" width="7%" title='AWS'/> 
   <img src ="./images/xd.svg" alt="ADOBE XD logo" width="5%" title='Adobe XD'/>
   <img src ="./images/npm.svg" alt="NPM logo" width="7%" title='NPM'/>
-  <img src ="./images/ethereum.svg" alt="Ethereum logo" width="7%" title='Ethereum'/>
 </div>
   
 
