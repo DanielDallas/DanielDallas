@@ -117,4 +117,4 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 
 <br />
 
-  <img src ="./images/built-with-love.svg" alt="Built with Love" width="10%" title='Github - Daniel Dallas'/>
+  <img src ="./images/built-with-love.svg" alt="Built with Love" width="50%" title='Github - Daniel Dallas'/>
