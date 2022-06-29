@@ -4,6 +4,9 @@
     <a href="https://thedanieldallas.com/">Website</a> • 
     <a href="https://twitter.com/thedanieldallas">Twitter</a> • 
     <a href="https://instagram.com/thedanieldallas">Instagarm</a> • 
+    <a href="https://www.instagram.com/thedanieldallas"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
+    </a>
     <a href="https://www.linkedin.com/in/danieldallasokoye/">Linkedin</a>
 </p>
 
