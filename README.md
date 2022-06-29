@@ -19,9 +19,9 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 <p align="left"> <a href="https://twitter.com/TheDanielDallas" target="blank"><img src="https://img.shields.io/twitter/follow/TheDanielDallas?logo=twitter&style=for-the-badge" alt="TheDanielDallas" /></a> </p>
 
 
-## TECHNOLOGIES I USE OFTEN:
+### TECHNOLOGIES I USE OFTEN:
 
-### 🕸️ **Web Dev.**
+### **Web Development**
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")](https://github.com/DanielDallas?tab=repositories)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")](https://github.com/DanielDallas?tab=repositories)
@@ -36,15 +36,19 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 [![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")](https://github.com/DanielDallas?tab=repositories)
 [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white "Styled-Components")](https://github.com/DanielDallas?tab=repositories)
 
+<hr />
 
-### 📱 **Mobile Dev.**
+
+### **Mobile Development**
 
 
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")](https://github.com/DanielDallas?tab=repositories)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter")](https://github.com/DanielDallas?tab=repositories)
 
 
-### ⚙️ **Backend Technologies**
+<hr />
+
+### **Backend Technologies**
 
 [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")](https://github.com/DanielDallas?tab=repositories)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")](https://github.com/DanielDallas?tab=repositories)
@@ -55,6 +59,8 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101 "Socket.io")](https://github.com/DanielDallas?tab=repositories)
 
 
+<hr />
+
 ### **Database**
 
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")](https://github.com/DanielDallas?tab=repositories)
@@ -62,13 +68,14 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 [![SQLLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white "SQLLite")](https://github.com/DanielDallas?tab=repositories)
 [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white "Postgresql")](https://github.com/DanielDallas?tab=repositories)
 
+<hr />
 
 ### **DevOPS Tools**
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")](https://github.com/DanielDallas?tab=repositories)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")](https://github.com/DanielDallas?tab=repositories)
-[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white "Nginx")](https://github.com/DanielDallas?tab=repositories)
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white "Apache")](https://github.com/DanielDallas?tab=repositories)
+[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white "Nginx")](https://github.com/DanielDallas?tab=repositories)
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white "Npm")](https://github.com/DanielDallas?tab=repositories)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")](https://github.com/DanielDallas?tab=repositories)
 
@@ -136,11 +143,6 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 
 <small> I am a lifelong learner and I love to teach, collaborate and inspire people. </small>
 
-<small> I love to travel, play football, table tennis and see movies. </small>
-
-    
- ### **Thanks for checking out my GitHub Profile!** 🙏
-
 <br />
-![](https://forthebadge.com/generator/?plabel=Built+by&slabel=THEDGIT.COM)
-![](https://ForTheBadge.com/images/badges/built-with-love.svg)
+![built](https://forthebadge.com/generator/?plabel=Built+by&slabel=THEDGIT.COM)
+![here](https://ForTheBadge.com/images/badges/built-with-love.svg)
