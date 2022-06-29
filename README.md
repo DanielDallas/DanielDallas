@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Daniel Dallas!</h3>
 
 <p align="">
-    <a href="https://thedanieldallas.com/" targte="_blank">Website</a> • 
-    <a href="https://twitter.com/thedanieldallas" targte="_blank">Twitter</a> • 
-    <a href="https://instagram.com/thedanieldallas" targte="_blank">Instagarm</a> • 
-    <a href="https://www.linkedin.com/in/danieldallasokoye targte="_blank"">Linkedin</a>
+    <a href="https://thedanieldallas.com/" target="_blank">Website</a> • 
+    <a href="https://www.linkedin.com/in/danieldallasokoye" target="_blank">Linkedin</a>
+    <a href="https://twitter.com/thedanieldallas" target="_blank">Twitter</a> • 
+    <a href="https://instagram.com/thedanieldallas" target="_blank">Instagarm</a> • 
 </p>
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DanielDallas)
