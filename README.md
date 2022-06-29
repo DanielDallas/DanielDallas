@@ -116,5 +116,5 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 <small> I am a lifelong learner and I love to teach, collaborate and inspire people. </small>
 
 <br />
-![built](https://forthebadge.com/generator/?plabel=Built+by&slabel=THEDGIT.COM)
-![here](https://ForTheBadge.com/images/badges/built-with-love.svg)
+[!](https://forthebadge.com/generator/?plabel=Built+by&slabel=THEDGIT.COM)
+[!](https://ForTheBadge.com/images/badges/built-with-love.svg)
