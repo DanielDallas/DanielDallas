@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Daniel Dallas!</h3>
+## 👋 Hi, I'm Daniel Dallas Okoye!</h3>
 
 <p align="">
     <a href="https://thedanieldallas.com/" target="_blank">Website</a> • 
@@ -7,21 +7,20 @@
     <a href="https://instagram.com/thedanieldallas" target="_blank">Instagarm</a>
 </p>
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DanielDallas)
-
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DanielDallas) • <img src="https://komarev.com/ghpvc/?username=danieldallas&label=Profile%20connections&color=0e75b6&style=flat" alt="Danieldallas" />
 
 ---
-I am a **Software Developer** and **User Experience Designer** on the mission to create interactive experiences for amazing people using modern **WEB, MOBILE** and **BLOCKCHAIN technologies**.
 
-I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
+I am a **Software Developer**, **Information Security Expert** and **Cloud Computing Professional** on the mission to create interactive experiences for amazing people using modern **WEB, MOBILE** and **DESKTOP technologies**.
+
+With over 7+ years of experience as a **Senior Web Developer**, I thrive in dynamic and fast-paced environments, collaborating seamlessly with cross-functional teams to deliver exceptional results. My expertise lies in the latest web technologies, enabling me to develop robust and user-friendly web applications with a proven track record of success. Let's connect and explore how I can contribute to your project or organisation's success.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieldallas&label=Profile%20connections&color=0e75b6&style=flat" alt="Danieldallas" /> </p>
 <p align="left"> <a href="https://twitter.com/TheDanielDallas" target="blank"><img src="https://img.shields.io/twitter/follow/TheDanielDallas?logo=twitter&style=for-the-badge" alt="TheDanielDallas" /></a> </p>
 
+# < CORE TECHNOLOGIES />:
 
-# < TECHNOLOGIES />:
-
-### **Web Development**
+### **Frontend Development**
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")](https://github.com/DanielDallas?tab=repositories)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")](https://github.com/DanielDallas?tab=repositories)
@@ -34,17 +33,6 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")](https://github.com/DanielDallas?tab=repositories)
 [![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")](https://github.com/DanielDallas?tab=repositories)
 [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white "Styled-Components")](https://github.com/DanielDallas?tab=repositories)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")](https://github.com/DanielDallas?tab=repositories)
-
-<hr />
-
-
-### **Mobile Development**
-
-
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")](https://github.com/DanielDallas?tab=repositories)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter")](https://github.com/DanielDallas?tab=repositories)
-
 
 <hr />
 
@@ -52,23 +40,17 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 
 [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")](https://github.com/DanielDallas?tab=repositories)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")](https://github.com/DanielDallas?tab=repositories)
-[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/DanielDallas?tab=repositories)
 [![Express js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "Express js")](https://github.com/DanielDallas?tab=repositories)
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")](https://github.com/DanielDallas?tab=repositories)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python")](https://github.com/DanielDallas?tab=repositories)
 [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101 "Socket.io")](https://github.com/DanielDallas?tab=repositories)
 
-
 <hr />
-
 
 ### **Design Tools**
 
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white "Figma")](https://github.com/DanielDallas?tab=repositories)
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://github.com/DanielDallas?tab=repositories)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 "XD")](https://github.com/DanielDallas?tab=repositories)
-
-
 
 <hr />
 
@@ -78,7 +60,6 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 [![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")](https://github.com/DanielDallas?tab=repositories)
 [![SQLLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white "SQLLite")](https://github.com/DanielDallas?tab=repositories)
 [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white "Postgresql")](https://github.com/DanielDallas?tab=repositories)
-
 
 <hr />
 
@@ -107,14 +88,14 @@ I'm passionate about transforming ideas from **PIXEL to SCALABLE products**.
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://github.com/DanielDallas?tab=repositories)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://github.com/DanielDallas?tab=repositories)
 
-
- ### Let's collaborate - I'm in!
+### Let's collaborate - I'm in!
 
 ---
+
 > I firmly believe that in the midst of all our accomplishments, we should always find ways to give back to the society/community.
 
 <small> I am a lifelong learner and I love to teach, collaborate and inspire people. </small>
 
 <br />
 
-  <a href="https://github.com/DanielDallas?tab=repositories" target="_blank"><img src ="./images/lets-collaborate.svg" alt="Built with Love" width="80%" title='Github - Daniel Dallas'/></a>
+<a href="https://github.com/DanielDallas?tab=repositories" target="_blank"><img src ="./images/lets-collaborate.svg" alt="Built with Love" width="80%" title='Github - Daniel Dallas'/></a>
