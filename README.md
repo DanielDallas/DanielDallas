@@ -15,7 +15,6 @@ I am a **Software Developer**, **Information Security Expert** and **Cloud Compu
 
 With over 7+ years of experience as a **Senior Web Developer**, I thrive in dynamic and fast-paced environments, collaborating seamlessly with cross-functional teams to deliver exceptional results. My expertise lies in the latest web technologies, enabling me to develop robust and user-friendly web applications with a proven track record of success. Let's connect and explore how I can contribute to your project or organisation's success.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieldallas&label=Profile%20connections&color=0e75b6&style=flat" alt="Danieldallas" /> </p>
 <p align="left"> <a href="https://twitter.com/TheDanielDallas" target="blank"><img src="https://img.shields.io/twitter/follow/TheDanielDallas?logo=twitter&style=for-the-badge" alt="TheDanielDallas" /></a> </p>
 
 # < CORE TECHNOLOGIES />:
