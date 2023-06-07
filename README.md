@@ -30,6 +30,7 @@ With over 7+ years of experience as a **Senior Web Developer**, I thrive in dyna
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React")](https://github.com/DanielDallas?tab=repositories)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white "Next.js")](https://github.com/DanielDallas?tab=repositories)
 [![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")](https://github.com/DanielDallas?tab=repositories)
+[![TailwindCSS](https://img.shields.io/badge/Ttailwindcss-563D7C?style=for-the-badge&logo=tailwindcss&logoColor=white "TailwindCSS")](https://github.com/DanielDallas?tab=repositories)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")](https://github.com/DanielDallas?tab=repositories)
 [![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")](https://github.com/DanielDallas?tab=repositories)
 [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white "Styled-Components")](https://github.com/DanielDallas?tab=repositories)
