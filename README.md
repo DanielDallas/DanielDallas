@@ -7,7 +7,7 @@
     <a href="https://instagram.com/thedanieldallas" target="_blank">Instagarm</a>
 </p>
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DanielDallas) - <img src="https://komarev.com/ghpvc/?username=danieldallas&label=Profile%20connections&color=0e75b6&style=flat" alt="Danieldallas" />
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DanielDallas) <img src="https://komarev.com/ghpvc/?username=danieldallas&label=Profile%20connections&color=0e75b6&style=flat" alt="Danieldallas" />
 
 ---
 
