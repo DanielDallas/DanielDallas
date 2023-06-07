@@ -87,6 +87,8 @@ With over 7+ years of experience as a **Senior Web Developer**, I thrive in dyna
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://github.com/DanielDallas?tab=repositories)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://github.com/DanielDallas?tab=repositories)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieldallas&show_icons=true&locale=en&layout=compact&langs_count=10" alt="theddanieldallas.com" /></p>
+
 ### Let's collaborate - I'm in!
 
 ---
