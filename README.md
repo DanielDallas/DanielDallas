@@ -11,7 +11,7 @@
 
 ---
 
-I am a **Software Developer**, **Information Security Expert** and **Cloud Computing Professional** on the mission to create interactive experiences for amazing people using modern **WEB, MOBILE** and **DESKTOP technologies**.
+I am a **Software Developer** on the mission to create interactive experiences for amazing people using modern **WEB, MOBILE** and **DESKTOP technologies**.
 
 With over 7+ years of experience as a **Senior Web Developer**, I thrive in dynamic and fast-paced environments, collaborating seamlessly with cross-functional teams to deliver exceptional results. My expertise lies in the latest web technologies, enabling me to develop robust and user-friendly web applications with a proven track record of success. Let's connect and explore how I can contribute to your project or organisation's success.
 
