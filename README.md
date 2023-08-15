@@ -4,7 +4,6 @@
     <a href="https://thedanieldallas.com/" target="_blank">Website</a> • 
     <a href="https://www.linkedin.com/in/danieldallasokoye" target="_blank">Linkedin</a> • 
     <a href="https://twitter.com/thedanieldallas" target="_blank">Twitter</a> • 
-    <a href="https://instagram.com/thedanieldallas" target="_blank">Instagarm</a>
 </p>
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DanielDallas) <img src="https://komarev.com/ghpvc/?username=danieldallas&label=Profile%20connections&color=0e75b6&style=flat" alt="Danieldallas" />
@@ -13,11 +12,11 @@
 
 I am a **Software Developer** on the mission to create interactive experiences for amazing people using modern **WEB, MOBILE** and **DESKTOP technologies**.
 
-With over 7+ years of experience as a **Senior Web Developer**, I thrive in dynamic and fast-paced environments, collaborating seamlessly with cross-functional teams to deliver exceptional results. My expertise lies in the latest web technologies, enabling me to develop robust and user-friendly web applications with a proven track record of success. Let's connect and explore how I can contribute to your project or organisation's success.
+With over 6+ years of experience as a **Web Developer**, I thrive in dynamic and fast-paced environments, collaborating seamlessly with cross-functional teams to deliver exceptional results. My expertise lies in the latest web technologies, enabling me to develop robust and user-friendly web applications with a proven track record of success. Let's connect and explore how I can contribute to your project or organisation's success.
 
 <p align="left"> <a href="https://twitter.com/TheDanielDallas" target="blank"><img src="https://img.shields.io/twitter/follow/TheDanielDallas?logo=twitter&style=for-the-badge" alt="TheDanielDallas" /></a> </p>
 
-# < CORE TECHNOLOGIES />:
+<!-- # < CORE TECHNOLOGIES />: -->
 
 ### **Frontend Development**
 
@@ -83,8 +82,10 @@ With over 7+ years of experience as a **Senior Web Developer**, I thrive in dyna
 ### **Code Editor & IDEs**
 
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")](https://github.com/DanielDallas?tab=repositories)
-[![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sublime Text")](https://github.com/DanielDallas?tab=repositories)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://github.com/DanielDallas?tab=repositories)
+
+<!-- [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sublime Text")](https://github.com/DanielDallas?tab=repositories)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://github.com/DanielDallas?tab=repositories) -->
+
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://github.com/DanielDallas?tab=repositories)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieldallas&show_icons=true&locale=en&layout=compact&langs_count=10" alt="theddanieldallas.com" /></p>
