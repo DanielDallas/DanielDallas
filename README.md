@@ -18,8 +18,6 @@ With over 6+ years of experience as a **Web Developer**, I thrive in dynamic and
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieldallas&show_icons=true&locale=en&layout=compact&langs_count=10" alt="theddanieldallas.com" /></p>
 
-### Let's collaborate - I'm in!
-
 ---
 
 > I firmly believe that in the midst of all our accomplishments, we should always find ways to give back to the society/community.
