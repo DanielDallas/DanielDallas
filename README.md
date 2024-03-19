@@ -10,9 +10,9 @@
 
 ---
 
-I am a **Software Developer** on the mission to create interactive experiences for amazing people using modern **WEB, MOBILE** and **DESKTOP technologies**.
+I am a **Software Engineer** on the mission to create interactive experiences for amazing people using modern **WEB, MOBILE** and **DESKTOP technologies**.
 
-With over 6+ years of experience as a **Web Developer**, I thrive in dynamic and fast-paced environments, collaborating seamlessly with cross-functional teams to deliver exceptional results. My expertise lies in the latest web technologies, enabling me to develop robust and user-friendly web applications with a proven track record of success. Let's connect and explore how I can contribute to your project or organisation's success.
+With over 4 years of experience, I thrive in dynamic and fast-paced environments, collaborating seamlessly with cross-functional teams to deliver exceptional results. My expertise lies in the latest web technologies, enabling me to develop robust and user-friendly web applications with a proven track record of success. Let's connect and explore how I can contribute to your project or organisation's success.
 
 <p align="left"> <a href="https://twitter.com/TheDanielDallas" target="blank"><img src="https://img.shields.io/twitter/follow/TheDanielDallas?logo=twitter&style=for-the-badge" alt="TheDanielDallas" /></a> </p>
 
