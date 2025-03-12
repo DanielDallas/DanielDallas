@@ -3,7 +3,7 @@
 <p align="">
     <a href="https://thedanieldallas.com/" target="_blank">Website</a> • 
     <a href="https://www.linkedin.com/in/danieldallasokoye" target="_blank">Linkedin</a> • 
-    <a href="https://twitter.com/thedanieldallas" target="_blank">Twitter</a> • 
+    <a href="https://x.com/thedanieldallas" target="_blank">X</a> • 
 </p>
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DanielDallas) <img src="https://komarev.com/ghpvc/?username=danieldallas&label=Profile%20connections&color=0e75b6&style=flat" alt="Danieldallas" />
@@ -26,4 +26,4 @@ With over 4 years of experience, I thrive in dynamic and fast-paced environments
 
 <br />
 
-<a href="https://github.com/DanielDallas?tab=repositories" target="_blank"><img src ="./images/lets-collaborate.svg" alt="Built with Love" width="80%" title='Github - Daniel Dallas'/></a>
+<a href="https://www.linkedin.com/in/danieldallasokoye" target="_blank"><img src ="./images/lets-collaborate.svg" alt="Built with Love" width="80%" title='Github - Daniel Dallas'/></a>
