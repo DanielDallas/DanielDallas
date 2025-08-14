@@ -25,11 +25,6 @@ If you’re into building things that make an impact, let’s talk.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieldallas&show_icons=true&locale=en&layout=compact&langs_count=10" alt="theddanieldallas.com" /></p>
 
 ---
-
-> I firmly believe that in all our accomplishments, we should always find ways to give back to the society/community.
-
-<small> I am a lifelong learner and I love to teach, collaborate and inspire people. </small>
-
 <br />
 
 <a href="https://www.linkedin.com/in/danieldallasokoye" target="_blank"><img src ="./images/lets-collaborate.svg" alt="Built with Love" width="80%" title='Github - Daniel Dallas'/></a>
