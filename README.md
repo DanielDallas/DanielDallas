@@ -10,9 +10,15 @@
 
 ---
 
-I am a **Software Engineer** on the mission to create interactive experiences for amazing people using modern **WEB, MOBILE** and **DESKTOP technologies**.
+I'm a **Software Engineer**, but that’s just the title. What I do is solve problems; sometimes with code, sometimes by asking the right questions, and occasionally by just being curious enough to figure things out.
 
-With over 4 years of experience, I thrive in dynamic and fast-paced environments, collaborating seamlessly with cross-functional teams to deliver exceptional results. My expertise lies in the latest web technologies, enabling me to develop robust and user-friendly web applications with a proven track record of success. Let's connect and explore how I can contribute to your project or organisation's success.
+Over the past years, I’ve discovered that the best solutions aren’t always the most complex ones. Simplicity wins. Collaboration wins. Focusing on what matters wins.
+
+I specialise in JavaScript, Python, React.js, Node.js, Cloud Computing, and Big Data Analytics; but tools are just that: tools. The real value is understanding how to use them to build something that creates impact.
+
+Outside of work, I believe in giving back; whether it’s sharing knowledge, mentoring, or just being a helpful voice in the room. Because what’s the point of success if it’s only yours?
+
+If you’re into building things that make an impact, let’s talk.
 
 <p align="left"> <a href="https://twitter.com/TheDanielDallas" target="blank"><img src="https://img.shields.io/twitter/follow/TheDanielDallas?logo=twitter&style=for-the-badge" alt="TheDanielDallas" /></a> </p>
 
@@ -20,7 +26,7 @@ With over 4 years of experience, I thrive in dynamic and fast-paced environments
 
 ---
 
-> I firmly believe that in the midst of all our accomplishments, we should always find ways to give back to the society/community.
+> I firmly believe that in all our accomplishments, we should always find ways to give back to the society/community.
 
 <small> I am a lifelong learner and I love to teach, collaborate and inspire people. </small>
 
