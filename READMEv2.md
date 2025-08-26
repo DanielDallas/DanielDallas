@@ -21,3 +21,9 @@ Outside of work, I believe in giving back; whether it’s sharing knowledge, men
 If you’re into building things that make an impact, let’s talk.
 
 <p align="left"> <a href="https://www.linkedin.com/in/danieldallasokoye/" target="blank"><img src="https://img.shields.io/twitter/follow/TheDanielDallas?logo=twitter&style=for-the-badge" alt="TheDanielDallas" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieldallas&show_icons=true&locale=en&layout=compact&langs_count=10" alt="theddanieldallas.com" /></p>
+
+<br /><br /><br />
+
+<a href="https://www.linkedin.com/in/danieldallasokoye" target="_blank"><img src ="./images/lets-collaborate.svg" alt="Built with Love" width="80%" title='Github - Daniel Dallas'/></a>
