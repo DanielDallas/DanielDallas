@@ -1,5 +1,3 @@
-## 👋 Hi, I'm Daniel Dallas Okoye!</h3>
-
 <p align="">
     <a href="https://thedanieldallas.com/" target="_blank">Website</a> • 
     <a href="https://www.linkedin.com/in/danieldallasokoye" target="_blank">Linkedin</a> • 
